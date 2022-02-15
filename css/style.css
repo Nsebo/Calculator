@@ -23,7 +23,7 @@ body {
   box-shadow: 0 20px 35px rgba(0, 0, 0, 1);
 }
 .output {
-  background: aqua;
+  background: salmon;
   background: linear-gradient(
     124deg,
     rgba (0, 245, 205, 1) 26%,
